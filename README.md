@@ -3,7 +3,7 @@ I worked with a group of 5 to analysis performance of small-cap value mutual fun
 
 Our report is written up under the file name 'Homework 2 Report'. 
 
-Our code is under the file name 'Homework 2 - Small-Cap Value Performance.ipynb'.
+Our code is under the file name 'Homework 2 - Small Cap Value Fund Performance.ipynb'.
 
 # Team Members
 Sujay Chebbi \
